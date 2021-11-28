@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GraphEditor": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,6 @@
+[submodule "deps/cimgui"]
+	path = deps/cimgui
+	url = https://github.com/0xSombra/cimgui
+[submodule "deps/ImGui.NET"]
+	path = deps/ImGui.NET
+	url = https://github.com/0xSombra/ImGui.NET
